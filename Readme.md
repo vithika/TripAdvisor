@@ -4,7 +4,7 @@
 
 ##### Screenshot from the website
 
-![alt text](image.png)
+![alt text](<Screenshot 2025-04-19 at 1.20.47 PM.png>)
 
 ##### Screenshot recreated.
 
